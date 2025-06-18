@@ -29,7 +29,7 @@
 
 ## 📊 Stats GitHub
 
-![Tes stats](https://github-readme-stats.vercel.app/api?username=christopheeyl-github&show_icons=true&theme=tokyonight)
+![Tes stats](https://github-readme-stats.vercel.app/api?username=christopheeyl&show_icons=true&theme=tokyonight)
 
 ---
 
