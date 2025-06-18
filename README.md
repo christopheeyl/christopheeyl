@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Christophe Eyl – Développeur Web Full Stack
 
-💻 Passionné par le développement web depuis plusieurs années, je conçois des applications performantes en **TypeScript**, **PHP**.
+💻 Passionné par le développement web depuis plusieurs années, je conçois des applications performantes en **TypeScript**, **PHP**.  
 🎯 Spécialisé en solutions sur mesure, intégration d'APIs, et développement autour de l’ERP **Dolibarr**.
 
 ---
