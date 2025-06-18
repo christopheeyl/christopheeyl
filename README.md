@@ -1,24 +1,36 @@
-# Salut 👋, moi c'est John Doe
+# 👋 Salut, moi c’est Christophe Eyl – Développeur Web Full Stack
 
-🔭 Je travaille actuellement sur **un projet d'IA open source**
-🌱 J'apprends actuellement **Rust et Next.js**
-👯 Je cherche à collaborer sur **des projets open source**
-💬 Demande-moi n'importe quoi sur **Python, React, Git**
-📫 Me contacter : [john.doe@email.com](mailto:john.doe@email.com)
-⚡ Fun fact : j’adore le café et les puzzles logiques !
+💻 Passionné par le développement web depuis plusieurs années, je conçois des applications performantes en **TypeScript**, **PHP**, et **React/Next.js**.  
+🎯 Spécialisé en solutions sur mesure, intégration d'APIs (Adyen, transporteurs), et développement autour de l’ERP **Dolibarr**.
 
 ---
 
-### 🛠️ Technologies & Outils
+## 🧰 Stack & Outils
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![SOAP](https://img.shields.io/badge/-SOAP-0A0A0A?style=flat&logoColor=white)
+![Dolibarr](https://img.shields.io/badge/-Dolibarr-0A0A0A?style=flat&logoColor=white)
 
 ---
 
-### 📈 Stats GitHub
+## 📫 Me contacter
 
-![Les stats GitHub de JohnDoe](https://github-readme-stats.vercel.app/api?username=johnDoe\&show_icons=true\&theme=tokyonight)
+- 📧 Email : [christophe.eyl@gmail.com]
+- 💼 LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/christophe-eyl-26651016a/)
+- 🌍 Portfolio (si tu en as un)
 
 ---
+
+## 📊 Stats GitHub
+
+![Tes stats](https://github-readme-stats.vercel.app/api?username=ton-username-github&show_icons=true&theme=tokyonight)
+
+---
+
