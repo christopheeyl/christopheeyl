@@ -22,8 +22,8 @@
 ## 📫 Me contacter
 
 - 📧 Email : [christophe.eyl@gmail.com]
-- 💼 LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/christophe-eyl-26651016a)
-- 🌍 Portfolio : www.christophe-eyl.dev
+- 💼 LinkedIn : [Mon Linkedin](https://www.linkedin.com/in/christophe-eyl-26651016a)
+- 🌍 Portfolio : [Mon site perso](www.christophe-eyl.dev)
 
 ---
 
