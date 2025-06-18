@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Christophe Eyl – Développeur Web Full Stack
 
 💻 Passionné par le développement web depuis plusieurs années, je conçois des applications performantes en **TypeScript**, **PHP**, et **React/Next.js**.  
-🎯 Spécialisé en solutions sur mesure, intégration d'APIs (Adyen, transporteurs), et développement autour de l’ERP **Dolibarr**.
+🎯 Spécialisé en solutions sur mesure, intégration d'APIs, et développement autour de l’ERP **Dolibarr**.
 
 ---
 
@@ -14,7 +14,6 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![SOAP](https://img.shields.io/badge/-SOAP-0A0A0A?style=flat&logoColor=white)
 ![Dolibarr](https://img.shields.io/badge/-Dolibarr-0A0A0A?style=flat&logoColor=white)
 
@@ -23,8 +22,8 @@
 ## 📫 Me contacter
 
 - 📧 Email : [christophe.eyl@gmail.com]
-- 💼 LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/christophe-eyl-26651016a/)
-- 🌍 Portfolio (si tu en as un)
+- 💼 LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/christophe-eyl-26651016a)
+- 🌍 Portfolio : www.christophe-eyl.dev
 
 ---
 
