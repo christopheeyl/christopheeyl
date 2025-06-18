@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut 👋, moi c'est John Doe
 
-<!--
-**christopheeyl/christopheeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Je travaille actuellement sur **un projet d'IA open source**
+🌱 J'apprends actuellement **Rust et Next.js**
+👯 Je cherche à collaborer sur **des projets open source**
+💬 Demande-moi n'importe quoi sur **Python, React, Git**
+📫 Me contacter : [john.doe@email.com](mailto:john.doe@email.com)
+⚡ Fun fact : j’adore le café et les puzzles logiques !
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Outils
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+---
+
+### 📈 Stats GitHub
+
+![Les stats GitHub de JohnDoe](https://github-readme-stats.vercel.app/api?username=johnDoe\&show_icons=true\&theme=tokyonight)
+
+---
